@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# factor
+Rails, D3js, Bootstrap
+>>>>>>> 5dd92ce48b596c4c56bd22d643a5f884e9e293e0
